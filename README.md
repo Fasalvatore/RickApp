@@ -1,3 +1,7 @@
+### Alunos 
+Fabio Salvatore (Fasalvatore) -
+
+Gabriel Abramovick (Bortoliero)
 # Cadastro de Usuários
 
 Um aplicativo simples de cadastro de usuários desenvolvido em React Native.
@@ -34,9 +38,7 @@ Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/
 
 ## Projeto criado para a matéria de Desenvolvimento de despositivos moveis
 
-### Alunos 
-Fabio Salvatore (Fasalvatore)
-Gabriel Abramovick (Bortoliero)
+
 
 
 
